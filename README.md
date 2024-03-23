@@ -4,7 +4,7 @@
 The Page Replacement Algorithm Simulator is a program designed to simulate different page replacement algorithms commonly used in operating systems. It provides a visual representation of how these algorithms manage memory pages, track page hits and faults, and optimize memory usage.
 
 # Supported Algorithms
-The simulator currently supports the following page replacement algorithms:('\n')
+The simulator currently supports the following page replacement algorithms:<'\n'>
 1)FIFO (First-In-First-Out)
 2)LRU (Least Recently Used)
 
