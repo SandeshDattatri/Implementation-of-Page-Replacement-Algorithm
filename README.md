@@ -5,32 +5,32 @@ The Page Replacement Algorithm Simulator is a program designed to simulate diffe
 
 # Supported Algorithms
 The simulator currently supports the following page replacement algorithms:<br />
-1)FIFO (First-In-First-Out)
-2)LRU (Least Recently Used)
+1)FIFO (First-In-First-Out)<br />
+2)LRU (Least Recently Used)<br />
 
 # Features
-1)Interactive Simulation: Users can input page requests and select an algorithm to start the simulation.
-2)Memory Visualization: The simulator visualizes memory blocks and their contents, highlighting page replacements and hits.
-3)Algorithm Controls: Users can start, pause, reset, and switch between algorithms during the simulation.
-4)Results Section: Displays the number of page hits and page faults for each algorithm run.
+1)Interactive Simulation: Users can input page requests and select an algorithm to start the simulation.<br />
+2)Memory Visualization: The simulator visualizes memory blocks and their contents, highlighting page replacements and hits.<br />
+3)Algorithm Controls: Users can start, pause, reset, and switch between algorithms during the simulation.<br />
+4)Results Section: Displays the number of page hits and page faults for each algorithm run.<br />
 
 # Usage
-Clone the repository to your local machine:
-git clone https://github.com/username/page-replacement-simulator.git
+Clone the repository to your local machine:<br />
+git clone https://github.com/username/page-replacement-simulator.git<br />
 
-Navigate to the project directory:
-cd page-replacement-simulator
+Navigate to the project directory:<br />
+cd page-replacement-simulator<br />
 
-# Simulation Interface
-1)Enter page requests separated by spaces in the input field.
-2)Select a page replacement algorithm from the dropdown list.
-2)Click the "Submit" button to start the simulation.
-3)Use the control buttons (Start, Pause, Reset) to manage the simulation.
-4)View the memory visualization and results section to track page hits and faults during the simulation.
+# Simulation Interface<br />
+1)Enter page requests separated by spaces in the input field.<br />
+2)Select a page replacement algorithm from the dropdown list.<br />
+2)Click the "Submit" button to start the simulation.<br />
+3)Use the control buttons (Start, Pause, Reset) to manage the simulation.<br />
+4)View the memory visualization and results section to track page hits and faults during the simulation.<br />
 
 
-Contributors
-Sandesh Dattatri
-Sanganna Motgi
-Rohan Ganapathi R 
+# Contributors
+Sandesh Dattatri<br />
+Sanganna Motgi<br />
+Rohan Ganapathi R<br />
 
