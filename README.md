@@ -14,13 +14,6 @@ The simulator currently supports the following page replacement algorithms:<br /
 3)Algorithm Controls: Users can start, pause, reset, and switch between algorithms during the simulation.<br />
 4)Results Section: Displays the number of page hits and page faults for each algorithm run.<br />
 
-# Usage
-Clone the repository to your local machine:<br />
-git clone https://github.com/username/page-replacement-simulator.git<br />
-
-Navigate to the project directory:<br />
-cd page-replacement-simulator<br />
-
 # Simulation Interface<br />
 1)Enter page requests separated by spaces in the input field.<br />
 2)Select a page replacement algorithm from the dropdown list.<br />
